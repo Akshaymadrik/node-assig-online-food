@@ -1,0 +1,113 @@
+{
+   
+    
+    "Breakfast": [
+        {
+          "id": 1,"title": "Dosa","price": 50,"images": "b2.jpg"},
+        {"id": 2,"title": "vada","price": 40, "images": "b3.jpg"},
+        {
+            "id": 3,
+            "title": "Puri",
+           
+            "price": 40,
+            "images": "b4.jpg"
+        },
+        {
+            "id": 4,
+            "title": "chappati",
+           
+            "price": 50,
+            "images": "b5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "idli",
+           
+            "price": 35,
+            "images": "b1.jpg"
+        }
+        
+      ],
+
+      "Nonveg": [
+        {
+          "id": 6,
+          "title": "Chicken-Biryani",
+         
+          "price": 250,
+          "images": "l1.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Chicken-curry",
+           
+            "price": 140,
+            "images": "l2.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Egg-Biryani",
+           
+            "price": 240,
+            "images": "l3.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Fish-curry",
+           
+            "price": 250,
+            "images": "l4.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Fish-Biryani",
+           
+            "price": 235,
+            "images": "l5.jpg"
+        }
+        
+      ],
+      "Snacks": [
+        {
+          "id": 11,
+          "title": "Chips",
+         
+          "price": 50,
+          "images": "s1.jpg"
+        },
+        {
+            "id": 12,
+            "title": "french-fries",
+           
+            "price": 140,
+            "images": "s2.jpg"
+        },
+        {
+            "id": 13,
+            "title": "cookies",
+           
+            "price": 40,
+            "images": "s6.jpg"
+        },
+        {
+            "id": 14,
+            "title": "biscuits",
+           
+            "price": 50,
+            "images": "s4.jpg"
+        },
+        {
+            "id": 15,
+            "title": "cakes",
+           
+            "price": 35,
+            "images": "s5.jpg"
+        }
+        
+      ]
+      
+      
+
+           
+               
+}

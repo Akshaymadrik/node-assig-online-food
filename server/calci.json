@@ -1,0 +1,43 @@
+{
+  "calci": [
+    {
+      "fname": "Deepthi",
+      "lname": "kad",
+      "username": "sami12",
+      "email": "Deepthi@gmail.com",
+      "password": "9518354701",
+      "id": 1,
+      "task": [
+        {
+          "title": "apple",
+          "description": "eat"
+        }
+      ]
+    },
+    {
+      "password": "Priya@123",
+      "email": "priya@123.com",
+      "fname": "priya",
+      "lname": "pande",
+      "username": "priya12",
+      "budget": [
+        {}
+      ],
+      "id": 2
+    },
+    {
+      "password": "$2a$10$GxgSb9qUImrUtkpNv.KshONlZifyFhkEi5ZctxteLz0LHWZPg2pnq",
+      "email": "polsani.deepthi123@gmail.com",
+      "username": "Deepthi",
+      "budget": [],
+      "id": 3
+    },
+    {
+      "password": "$2a$10$RNl8Y4yX4aAS5m.zoXqcWu1/YIjcTm/m.0QvbMPr4LPNVKdep6w6m",
+      "email": "polsani.deepthi123@gmail.com",
+      "username": "Deepthi",
+      "budget": [],
+      "id": 4
+    }
+  ]
+}
